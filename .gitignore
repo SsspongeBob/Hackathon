@@ -1,0 +1,25 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# IDE
+.idea
+
+# Environment
+.env
+
+# custom
+/test.*
+graspnet-baseline
+graspNet_data
+calibration_data
+.idea
+
+anno_data
